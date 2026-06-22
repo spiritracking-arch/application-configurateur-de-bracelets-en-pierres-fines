@@ -9,7 +9,7 @@
 
 **🔗 Essayer l'application : [lochness-paris.com/configurateur-de-bracelet.html](https://lochness-paris.com/configurateur-de-bracelet.html)**
 
----
+---1. C. Guerineau, Loch Ness : Système Algorithmique de Détermination Archétypale et de Synergies Minérales à Géométrie Variable. (2026), , doi:10.5281/zenodo.19836837. 
 
 ## ✨ Présentation
 
