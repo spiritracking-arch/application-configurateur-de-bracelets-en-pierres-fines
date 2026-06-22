@@ -1,0 +1,37 @@
+LICENCE — Dépôt vitrine "GemStudio 360™"
+==========================================
+
+Ce dépôt distingue deux types de contenus, soumis à des règles différentes.
+
+1. DOCUMENTATION ET EXEMPLES PÉDAGOGIQUES (ce dépôt)
+-----------------------------------------------------
+Les fichiers de documentation (`README.md`, `docs/*.md`) et les exemples
+de code simplifiés du dossier `examples/` sont publiés sous licence MIT :
+
+  Copyright (c) 2026 Loch Ness Paris
+
+  La permission est accordée, gratuitement, à toute personne obtenant une
+  copie de ce logiciel et des fichiers de documentation associés, d'utiliser,
+  copier, modifier, fusionner, publier et/ou distribuer des copies de ces
+  exemples, sous réserve d'inclure la présente notice de droit d'auteur
+  dans toutes les copies ou parties substantielles.
+
+  CE LOGICIEL/CETTE DOCUMENTATION EST FOURNI "EN L'ÉTAT", SANS GARANTIE
+  D'AUCUNE SORTE.
+
+2. APPLICATION DE PRODUCTION "GemStudio 360™" (NON INCLUSE DANS CE DÉPÔT)
+---------------------------------------------------------------------------
+L'application accessible sur https://lochness-paris.com/configurateur-de-bracelet.html,
+y compris :
+
+  - l'algorithme de calcul numérologique ("bracelet chemin de vie") ;
+  - le moteur de rendu génératif des pierres (presets, seeds, motifs minéraux) ;
+  - le système de score lithothérapique ;
+  - le catalogue complet des pierres et ses métadonnées ;
+  - l'interface visuelle et l'expérience utilisateur du configurateur ;
+
+est la propriété intellectuelle exclusive de **Loch Ness®**. Toute
+reproduction, copie ou imitation de ces éléments, même partielle, est
+strictement interdite et fera l'objet de poursuites conformément au Code
+de la propriété intellectuelle. Ces éléments ne sont pas publiés dans ce
+dépôt et la licence MIT ci-dessus ne s'y applique pas.

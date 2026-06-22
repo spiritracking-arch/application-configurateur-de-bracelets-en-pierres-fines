@@ -1,0 +1,21 @@
+{
+  "_comment": "Exemple illustratif de la STRUCTURE d'une fiche pierre. Les valeurs ci-dessous sont fictives et ne représentent pas le catalogue réel ni les métadonnées exactes utilisées en production.",
+  "id": "amethyst",
+  "name": "Améthyste",
+  "category": "Quartz",
+  "colorFamily": "violet",
+  "properties": ["sérénité", "intuition", "clarté mentale"],
+  "renderPreset": {
+    "type": "translucent-crystal",
+    "baseHue": 270,
+    "baseSaturation": 45,
+    "baseLightness": 60
+  },
+  "priceRangeIndicative": {
+    "min": 2,
+    "max": 8,
+    "currency": "EUR",
+    "unit": "par perle"
+  },
+  "compatibleArchetypes": [7, 9]
+}
