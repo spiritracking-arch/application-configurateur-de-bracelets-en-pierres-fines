@@ -96,18 +96,23 @@ Si vous référencez ce projet dans un travail académique, un article ou une do
 
 > C. Guerineau, *Loch Ness : Système Algorithmique de Détermination Archétypale et de Synergies Minérales à Géométrie Variable* (2026), doi:[10.5281/zenodo.19836837](https://doi.org/10.5281/zenodo.19836837)
 
+## 🔒 Dépôt de propriété intellectuelle
+
+La méthodologie et la nomenclature archétypale présentées dans ce projet font l'objet d'un dépôt horodaté et certifié (DOI) :
+
+> C. Guerineau, *Loch Ness : Système Algorithmique de Détermination Archétypale et de Synergies Minérales à Géométrie Variable* (2026), DOI: [10.5281/zenodo.19836838](https://doi.org/10.5281/zenodo.19836838)
+
 Format BibTeX :
 
 ```bibtex
-@software{guerineau_2026_lochness,
+@misc{guerineau_2026_lochness,
   author    = {Guerineau, Camille},
   title     = {Loch Ness : Système Algorithmique de Détermination Archétypale et de Synergies Minérales à Géométrie Variable},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.19836837},
-  url       = {https://doi.org/10.5281/zenodo.19836837}
+  doi       = {10.5281/zenodo.19836838},
+  url       = {https://doi.org/10.5281/zenodo.19836838}
 }
 ```
----
 
 <sub>Mots-clés : bracelet chemin de vie, configurateur de bijoux, lithothérapie, numérologie, pierres fines, bijou sur-mesure, PWA, gemmes, Loch Ness Paris.</sub>
