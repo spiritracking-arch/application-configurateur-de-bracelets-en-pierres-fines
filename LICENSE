@@ -8,7 +8,7 @@ Ce dépôt distingue deux types de contenus, soumis à des règles différentes.
 Les fichiers de documentation (`README.md`, `docs/*.md`) et les exemples
 de code simplifiés du dossier `examples/` sont publiés sous licence MIT :
 
-  Copyright (c) 2026 Loch Ness Paris
+  Copyright (c) 2026 Loch Ness
 
   La permission est accordée, gratuitement, à toute personne obtenant une
   copie de ce logiciel et des fichiers de documentation associés, d'utiliser,
