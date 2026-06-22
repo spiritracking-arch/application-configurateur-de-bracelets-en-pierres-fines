@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Si vous utilisez ou référencez ce projet, merci de citer la publication suivante :"
+title: "Loch Ness : Système Algorithmique de Détermination Archétypale et de Synergies Minérales à Géométrie Variable"
+authors:
+  - family-names: "Guerineau"
+    given-names: "Camille"
+date-released: 2026-04-20
+version: "1.0.0"
+doi: 10.5281/zenodo.19836837
+url: "https://zenodo.org/records/19836838"
+repository-code: "https://github.com/spiritracking-arch/application-configurateur-de-bracelets-en-pierres-fines"
+license: MIT
+type: software
+keywords:
+  - lithothérapie
+  - numérologie
+  - configurateur de bijoux
+  - bracelet chemin de vie
+  - SVG génératif
+  - PWA
