@@ -89,12 +89,7 @@ Ce dépôt est une vitrine documentaire publique. **L'algorithme de calcul numé
 
 - 🌐 Application : **[lochness-paris.com/configurateur-de-bracelet.html](https://lochness-paris.com/configurateur-de-bracelet.html)**
 - 🏠 Site : [lochness-paris.com](https://lochness-paris.com)
-- 📜 DOI : [10.5281/zenodo.19836838](https://doi.org/10.5281/zenodo.19836838)
-## 📖 Citation
 
-Si vous référencez ce projet dans un travail académique, un article ou une documentation, merci de citer :
-
-> C. Guerineau, *Loch Ness : Système Algorithmique de Détermination Archétypale et de Synergies Minérales à Géométrie Variable* (2026), doi:[10.5281/zenodo.19836837](https://doi.org/10.5281/zenodo.19836837)
 
 ## 🔒 Dépôt de propriété intellectuelle
 
